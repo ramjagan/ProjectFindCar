@@ -1,0 +1,149 @@
+{
+	"Car": [{
+			"make": "Tesla",
+			"model": "3",
+			"vin": "19AGHY64352JITEG98K",
+			"metadata": {
+				"Color": "Blue",
+				"Notes": "Scratches on the front side of the car"
+			},
+			"perdayrent": {
+				"Price": 430,
+				"Discount": 15
+			},
+			"metrics": {
+				"yoymaintenancecost": 4190.76,
+				"depreciation": 1256.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 221
+				}
+			}
+		},
+		{
+			"make": "Tesla",
+			"model": "X",
+			"vin": "09AGHY64XX2JITEG98K",
+			"metadata": {
+				"Color": "Blue",
+				"Notes": "Scratches on the Back side of the car"
+			},
+			"perdayrent": {
+				"Price": 1400,
+				"Discount": 150
+			},
+			"metrics": {
+				"yoymaintenancecost": 4190.76,
+				"depreciation": 2256.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 221
+				}
+			}
+		},
+		{
+			"make": "Audi",
+			"model": "Q7",
+			"vin": "33AGHY64352JITEG98K",
+			"metadata": {
+				"Color": "Silver",
+				"Notes": "Scratches on the top side of the car"
+			},
+			"perdayrent": {
+				"Price": 280,
+				"Discount": 15
+			},
+			"metrics": {
+				"yoymaintenancecost": 2190.76,
+				"depreciation": 2256.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 221
+				}
+			}
+		},
+		{
+			"make": "Audi",
+			"model": "A4",
+			"vin": "04AGHY64352JITEG98K",
+			"metadata": {
+				"Color": "Red",
+				"Notes": "Scratches on side of the car"
+			},
+			"perdayrent": {
+				"Price": 140,
+				"Discount": 15
+			},
+			"metrics": {
+				"yoymaintenancecost": 190.76,
+				"depreciation": 256.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 221
+				}
+			}
+		},
+		{
+			"make": "Audi",
+			"model": "Q3",
+			"vin": "06AGHY64352JITEG98K",
+			"metadata": {
+				"Color": "Brown",
+				"Notes": "Scratches on the side of the car"
+			},
+			"perdayrent": {
+				"Price": 240,
+				"Discount": 15
+			},
+			"metrics": {
+				"yoymaintenancecost": 2190.76,
+				"depreciation": 2256.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 221
+				}
+			}
+		},
+		{
+			"make": "Audi",
+			"model": "A6",
+			"vin": "66AGHY64352JITEG98K",
+			"metadata": {
+				"Color": "Black",
+				"Notes": "Scratches on the front side of the car"
+			},
+			"perdayrent": {
+				"Price": 140,
+				"Discount": 5
+			},
+			"metrics": {
+				"yoymaintenancecost": 2190.76,
+				"depreciation": 2256.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 221
+				}
+			}
+		}, {
+			"make": "Audi",
+			"model": "A7",
+			"vin": "09AGHY64352JITEG98K",
+			"metadata": {
+				"Color": "Black",
+				"Notes": "Scratches on the front side of the car"
+			},
+			"perdayrent": {
+				"Price": 140,
+				"Discount": 15
+			},
+			"metrics": {
+				"yoymaintenancecost": 2190.76,
+				"depreciation": 2256.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 221
+				}
+			}
+		}
+	]
+}
